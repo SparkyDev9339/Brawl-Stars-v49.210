@@ -1,0 +1,37 @@
+{
+  "Offers": [
+    {
+      "RewardsCount": 2,
+      "Rewards": [
+        {
+          "ItemType": 3,
+          "Amount": 11,
+          "CsvID1": 16,
+          "CsvID2": 66,
+          "SkinID": 648
+        },
+        
+        {
+          "ItemType": 4,
+          "Amount": 1,
+          "CsvID1": 16,
+          "CsvID2": 0,
+          "SkinID": 637
+        }
+      ],
+      "Currency": 0,
+      "Cost": 0,
+      "Time": 86400,
+      "Claim": false,
+      "DailyOffer": false,
+      "OldPrice": 199,
+      "Text": "R-T + POLISE R-T",
+      "Background": "offer_special",
+      "Processed": false,
+      "TypeBenefit": 0,
+      "Benefit": 1,
+      "OneTimeOffer": false,
+      "Claimed": false
+    }
+  ]
+}
